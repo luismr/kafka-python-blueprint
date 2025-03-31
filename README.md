@@ -1,5 +1,10 @@
 # Python Kafka Producer Blueprint
 
+![Python 3.9](https://img.shields.io/badge/Python-3.9-blue)
+![Pytest 8.3.5](https://img.shields.io/badge/Pytest-8.3.5-blue)
+![kafka-python 2.1.4](https://img.shields.io/badge/kafka--python-2.1.4-blue)
+![Kafka 4](https://img.shields.io/badge/Kafka-4-red)
+
 This project demonstrates three different Kafka delivery modes using Python:
 
 - At-most-once delivery
